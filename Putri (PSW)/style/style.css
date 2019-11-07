@@ -1,0 +1,160 @@
+ *{
+	padding:0px;
+	margin:0px;
+	}
+
+#site-container {
+	width:960px;
+	height:auto;
+	margin:20px auto;
+	border:1px solid #000;
+	padding-top:5px;
+	padding-bottom:5px;
+    }
+
+#header{
+	width:900px;
+	height:130px;
+	background:url(../images/awan.jpg);
+	margin:0px auto;
+	padding-top: 50px;
+	padding-left:50px;
+	}
+
+#menu-content{
+	width:950px;
+	height:auto;
+	margin:5 auto;
+	}
+
+#menu{
+	float:left;
+	width:300px;
+	height:600px;
+	}
+
+#content{
+	float:right;
+	width:625px;
+	height:auto;
+	border:1px solid #000;
+	width:610px;
+	height:auto;
+	/*border:1px solid #000;*/
+	float:right;
+	background:#ffe6e6;
+	padding:15px;
+
+	}
+
+#footer{
+	width:950px;
+	height:70px;
+	margin:5px auto;
+	border:1px solid #000;
+	}
+
+.floating{
+	clear:both;
+	height:0px;
+	line-height:0px;
+	}
+
+#header a{
+	font:28pt 'Kristen ITC';
+	text-decoration:none;
+	color:#f2f2f2;
+	}
+
+#header p{
+	font:20pt 'Brush Script Std';
+	color:#f2f2f2;
+	}
+
+.judul_1{
+	display:block;
+	height:40px;
+	background:#ff9999;
+	font:20pt "Script MT Bold";
+	color:#black;
+	text-align:center;
+	border:1px solid red;
+	}
+
+#menu ul{
+	list-style:none;
+	}
+
+#menu li a{
+	display:block;
+	height:30px;
+	background:#ff9999;
+	font:16pt "Script MT Bold";
+	color:#000;
+	text-decoration:none;
+	border-bottom:1px solid red;
+	border-left:1px solid red;
+	border-right:1px solid red;
+	padding-left:1px;
+	text-align: center;
+}
+
+#menu li a:hover{
+	background:#666633;
+	color:#fff;
+	}
+
+.judul_2{
+	display:block;
+	border-bottom:2px solid #000;
+	font:26pt "Script MT Bold";
+	color:#fff;
+	padding-bottom:10px;
+	}
+
+.img{
+	width:250px;
+	height:200px;
+	border:5px solid #fff;
+	margin-top:20px;
+	margin-right:20px;
+	float:left;
+	}
+
+#content p{
+	margin-top:20px;
+	}
+
+#footer{
+	width:950px;
+	height:40px;
+	margin-top:5px;
+	margin-bottom:0px;
+	margin-right:auto;
+	margin-left:auto;
+	background:#ffcccc;
+	text-align:center;
+	padding-top:30px;
+	font-weight:bold;
+	color:#000;
+}
+
+body{
+	background:#ffffff;
+	font:10pt verdana;
+	}
+
+#site-container{
+	width:960px;
+	height:auto;
+	margin:20px auto;
+	background:#ffcccc;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+
+
+
+
+
